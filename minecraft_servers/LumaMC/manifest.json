@@ -1,14 +1,13 @@
 {
-  "server_name": "LumaMC",
+  "server_name": "LunaMC",
   "nice_name": "LunaMC",
   "direct_ip": "87.106.86.134:10003",
-  },
   "supported_languages": [
-     "de"
+    "de"
   ],
   "social": {
     "discord": "https://discord.gg/snkgu69ntM",
-    "youtube": "https://www.youtube.com/@Offiziel-LunaMC",
+    "youtube": "https://www.youtube.com/@Offiziel-LunaMC"
   },
   "chat": {
     "message_formats": [
@@ -16,16 +15,16 @@
     ]
   },
   "brand": {
-     "primary": "#3B0A45",
-     "background": "#252B5C",
-     "text": "#2A1E4D"
-  }, 
+    "primary": "#3B0A45",
+    "background": "#252B5C",
+    "text": "#2A1E4D"
+  },
   "location": {
-     "city": "Buchholz",
-     "country": "Germany",
-     "country_code": "DE"
+    "city": "Buchholz",
+    "country": "Germany",
+    "country_code": "DE"
   },
   "yt_trailer": "GyDcFMHYcYU",
-  "user_stats": "https://laby.net/@{Laser_Phil}",
+  "user_stats": "https://laby.net/@Laser_Phil",
   "command_delay": 3000
-  }
+}
