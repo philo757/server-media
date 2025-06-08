@@ -1,0 +1,44 @@
+{
+  "server_name": "lunamc",
+  "nice_name": "LunaMC",
+  "direct_ip": "87.106.86.134:10003",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/snkgu69ntM",
+    "youtube": "https://www.youtube.com/@Offiziel-LunaMC",
+  },
+  "gamemodes": {
+    "CB": {
+      "name": "CB", 
+      "color": "#FFA500",
+      "command": "/warp cb",
+      "versions": "1.21.1"
+    },
+    "SMP": {
+      "name": "SMP",
+      "color": "#ADD8E6",
+      "command": "/warp smp",
+      "versions": "1.21.1"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+    ]
+  },
+  "brand": {
+     "primary": "#3B0A45",
+     "background": "#252B5C",
+     "text": "#2A1E4D"
+  }, 
+  "location": {
+     "city": "Buchholz",
+     "country": "Germany",
+     "country_code": "DE"
+  },
+  "yt_trailer": "GyDcFMHYcYU",
+  "user_stats": "https://laby.net/@{Laser_Phil}",
+  "command_delay": 3000
+}
